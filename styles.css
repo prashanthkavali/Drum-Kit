@@ -99,46 +99,16 @@ footer {
     line-height: 2;
   }
 
-  .drum{
+  .drum {
     font-size: 200px;
     margin: 20px;
     text-align: center;
     line-height: 0;
   }
 
- .w{
-   width: 300px;
-   height: 300px;
- }
-
- .a{
-  width: 300px;
-  height: 300px;
-}
-
-.s{
-  width: 300px;
-  height: 300px;
-}
-
-.d{
-  width: 300px;
-  height: 300px;
-}
-
-.j{
-  width: 300px;
-  height: 300px;
-}
-
-.k{
-  width: 300px;
-  height: 300px;
-}
-
-.l{
-  width: 300px;
-  height: 300px;
-}
+  .w, .a, .s, .d, .j, .k, .l {
+    width: 300px;
+    height: 300px;
+  }
 
 }
